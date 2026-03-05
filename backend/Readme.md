@@ -1,5 +1,5 @@
 
-Function	Method	URL
+
 getNotes	GET	/api/notes
 getNote	GET	/api/notes/:id
 createNote	POST	/api/notes
